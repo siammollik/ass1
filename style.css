@@ -187,3 +187,19 @@ padding:115px 120px 180px ;
     padding-top: 16px;
     color: #627382;
 }
+footer{
+    height: 248px;
+    background-color: #001931;
+}
+#last{
+   padding: 100px;
+   display: flex;
+   height: 44px;
+}
+.info{
+    display: flex;
+    padding: 0 auto;
+    margin: 0 auto;
+    border: 120px 120 120 120 ;
+    padding: 
+}
