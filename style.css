@@ -90,7 +90,7 @@ padding:115px 120px 180px ;
 
 .note-container{
     padding-top: 30px;
-    width: 1160px;
+    width: 1260px;
     margin: 0 auto;
 }
 .note-heading{
@@ -159,3 +159,31 @@ padding:115px 120px 180px ;
     list-style-type: none;
     text-align:justify;
  }
+ .Early-Access-Section{
+    margin: 120px 120px 120px 120px;
+    text-align: center;
+    background-color: #F7F6F2;
+    width: 1260px;
+    height: 384px;
+ }
+
+.Early-Access-Section h1{
+    padding-top: 80px;
+    font-size: 40px;
+}
+.Early-Access-Section p{
+    color: #627382;
+}
+.bt{
+    margin-top: 24px;
+    padding: 12px 16px 12px 16px;
+    background-color: #469165;
+    border-radius: 5px;
+    border: none;
+    color: azure;
+    text-align: center;
+}
+.easp{
+    padding-top: 16px;
+    color: #627382;
+}
