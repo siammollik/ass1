@@ -133,3 +133,29 @@ padding:115px 120px 180px ;
     color:#627382 ;
     font-size: 16px;
 }
+
+ /* Second-Brain-Section */
+
+ .Second-Brain-Section{
+    margin: 120px 120px 120px 120px;
+    display: flex;
+    /* border: 1px solid red; */
+ }
+
+ .section-detail{
+    margin: 102px 0px 120px 60px;
+ }
+ .section-detail-heading{
+    font-size: 48px;
+    color: #001931;
+    padding-top: 16px;
+ }
+ .section-detail p{
+    line-height: 20px;
+    color: #627382;
+ }
+ .section-detail-menu{
+    padding-top: 40px;
+    list-style-type: none;
+    text-align:justify;
+ }
