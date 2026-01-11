@@ -17,20 +17,12 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
-.logo{
-    width: 139px;
-    height: 60px;
-    padding: 
-}
 .logo h1{
-    font-size: 38px;
+    font-size: 50px;
     font-weight: 900px;
     color: #469150;
 }
-.pera{
-    padding-top: 8px;
-    font-size: 8px;
-}
+
 .list{
     width: 845px ;
     /* border: 1px solid   yellow; */
@@ -92,4 +84,52 @@ padding:115px 120px 180px ;
 .snd{
     color: black;
     padding: 12px 16px 12px 16px;
+}
+
+/* banner section */
+
+.note-container{
+    padding-top: 30px;
+    width: 1160px;
+    margin: 0 auto;
+}
+.note-heading{
+    margin: 0 auto;
+    text-align: center;
+}
+.note-heading .nhh2{
+    font-size: 48px;
+}
+
+.note-box{
+    padding-top: 44px;
+    display: flex;
+    gap: 24px;
+}
+.note-card{
+    padding: 70px 24px 21px;
+    /* border: 1px solid red; */
+    max-width: 322px;
+    box-shadow: 0 8px 20px 0 #000000;
+
+}
+.note-card img{
+    display: block;
+    margin: 0 auto;
+    width: 32px;
+    height: 32px;
+    background-color: #F95555;
+    border-radius: 40px;
+    padding:14px 13px;
+    
+}
+.note-card h3{
+    font-size: 24px;
+    text-align: center;
+}
+.note-card p{
+    line-height: 20px;
+    align-items: center;
+    color:#627382 ;
+    font-size: 16px;
 }
