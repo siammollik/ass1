@@ -1,0 +1,95 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.font-open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+nav{
+    width: 1360px;
+    /* border: 1px solid red; */
+    margin-top: 16px;  
+    box-sizing: border-box;  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 139px;
+    height: 60px;
+    padding: 
+}
+.logo h1{
+    font-size: 38px;
+    font-weight: 900px;
+    color: #469150;
+}
+.pera{
+    padding-top: 8px;
+    font-size: 8px;
+}
+.list{
+    width: 845px ;
+    /* border: 1px solid   yellow; */
+    display: flex;
+    list-style-type: none;
+
+}
+.btn{
+    padding: 12px 16px 12px 16px;
+    background-color: #469165;
+    border-radius: 5px;
+    border: none;
+    color: azure;
+}
+.banner-img{
+    background: url(assets/hero-bg.png);
+    height: 674px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner{
+width: 1360px;
+height: 379px;
+display: flex;
+flex-direction: column;
+padding:115px 120px 180px ;
+}
+.banner-heading{
+    font-size: 16px;
+    color: #469165;
+    padding: 8px 12px 14px;
+    background-color: aliceblue;
+    text-align: center;
+    border-radius: 20px;
+}
+.bhh{
+    padding-top: 16px;
+    font-size: 51px;
+    color: azure;
+}
+.sph{
+    color: #469165;
+}
+.pg{
+    color: azure;
+}
+.butt{
+    padding-top:32px ;
+    display: flex;
+    gap: 16px;
+    padding: 16px 10px ;
+    border: none;
+    border-radius: 4px;
+}
+.fst{
+    background-color: #469165;
+    padding: 12px 16px 12px 16px;
+}
+.snd{
+    color: black;
+    padding: 12px 16px 12px 16px;
+}
